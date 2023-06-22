@@ -1,2 +1,4 @@
-# product-hero-account-page
-Created with CodeSandbox
+# Anima Project
+
+Product Hero my account page.
+This a mobile first project

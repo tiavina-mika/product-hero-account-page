@@ -1,0 +1,103 @@
+.tab-bar {
+  align-items: center;
+  background-color: #ffffff;
+  box-shadow: 0px -4px 8px #1e1e1e0d;
+  display: flex;
+  height: 70px;
+  justify-content: space-between;
+  padding: 16px 40px;
+  position: relative;
+  width: 390px;
+}
+
+.tab-bar .div {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-bar .mon-focus {
+  color: #3d5af1;
+  font-family: "Urbanist", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  line-height: 10px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tab-bar .frame-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-bar .vues {
+  color: #a0a0a0;
+  font-family: "Urbanist", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  line-height: 10px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tab-bar .frame-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-bar .backlog {
+  color: #a0a0a0;
+  font-family: "Urbanist", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  line-height: 10px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tab-bar .frame-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-bar .param-tres {
+  color: #a0a0a0;
+  font-family: "Urbanist", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  line-height: 10px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
